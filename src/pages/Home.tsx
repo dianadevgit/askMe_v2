@@ -11,7 +11,7 @@ export function Home(){
         <div id="page-auth">
             <aside>
                 <img src={illustrationImg} alt="Illustration for questions and answers"/>
-                <strong>Create rooms for Q&amp;A</strong>
+                <strong>The Create rooms for Q&amp;A</strong>
                 <p>Ask questions to your audience in real time</p>
             </aside>
             <main>
