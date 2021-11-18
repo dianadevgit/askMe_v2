@@ -1,2 +1,2 @@
 # askme_v2
-This is a version of AskMe developed using ReactJs
+This project is on progress, it's a version of AskMe I am developing using ReactJS.
